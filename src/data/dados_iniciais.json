@@ -1,0 +1,147 @@
+{
+  "categorias": [
+    {
+      "titulo": "Futebol",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Meus vídeos favoritos de futebol",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Site desenvolvido com o apoio da Alura",
+          "url": "https://www.youtube.com/watch?v=DQ3A2PTpDBU"
+        },
+        {
+          "titulo": "Barcelona vs PSG (Remontada)",
+          "url": "https://www.youtube.com/watch?v=NtkZVru6_No"
+        },
+        {
+          "titulo": "Santos 4 x 5 Flamengo - Melhores Momentos",
+          "url": "https://www.youtube.com/watch?v=ix4aBxygbDo"
+        },
+        {
+          "titulo": " França 4 x 3 Argentina | Melhores Momentos",
+          "url": "https://www.youtube.com/watch?v=u1jYL3RJSuI"
+        },
+        {
+          "titulo": "Barcelona 5 x 3 Bayern de Munique - Melhores Momentos",
+          "url": "https://www.youtube.com/watch?v=XmXoSUMDry0"
+        },
+        {
+          "titulo": "Barcelona 5 x 2 R. Vallecano | Melhores Momentos |",
+          "url": "https://www.youtube.com/watch?v=oGYdieS5oCY"
+        },
+        {
+          "titulo": "Real Madrid 0 x 2 Barcelona - Melhores Momentos",
+          "url": "https://www.youtube.com/watch?v=pqpwlwghJ8g"
+        }       
+      ]
+    },
+    {
+      "titulo": "Músicas",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Minhas músicas preferidas",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "The Beatles - Hey Jude",
+          "url": "https://www.youtube.com/watch?v=A_MjCqQoLLA"
+        },
+        {
+          "titulo": "Sinônimos",
+          "url": "https://www.youtube.com/watch?v=7EjIdjKNRls"
+        },
+        {
+          "titulo": "Aerosmith - I Don't Want to Miss a Thing",
+          "url": "https://www.youtube.com/watch?v=JkK8g6FMEXE"
+        },
+        {
+          "titulo": "Queen - Don't Stop Me Now",
+          "url": "https://www.youtube.com/watch?v=HgzGwKwLmgM"
+        }, 
+        {
+          "titulo": "Jota Quest - Só Hoje",
+          "url": "https://www.youtube.com/watch?v=NeADhPP0G2Q"
+        }
+      ]
+    },
+    {
+      "titulo": "Tecnologia",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de programação",
+        "url": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
+      },
+      "videos": [
+        {
+          "titulo": "Curso Grátis de JavaScript e ECMAScript para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=uzEhd3Lugik&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&t=0s"
+        },
+        {
+          "titulo": "Curso de HTML5 ",
+          "url": "https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Vingadores: Ultimato",
+          "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "À Procura Da Felicidade",
+          "url": "https://www.youtube.com/watch?v=6yc069E1gfc"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "FIFA 20 | Trailer de Jogo Oficial",
+          "url": "https://www.youtube.com/watch?v=vgQNOIhRsV4"
+        },
+        {
+          "titulo": "THE LAST OF US PART 2 Official Reveal Trailer ",
+          "url": "youtube.com/watch?v=ru5IU8bGx3A"
+        },
+        {
+          "titulo": "DAYS GONE Trailer",
+          "url": "https://www.youtube.com/watch?v=wc5CmDYyovA"
+        },
+        {
+          "titulo": "DC Universe Online",
+          "url": "https://www.youtube.com/watch?v=H7Nf-m6WGl4"
+        },
+        {
+          "titulo": "Marvel’s Spider-Man",
+          "url": "https://www.youtube.com/watch?v=8pR0o2fGyHg"
+        }
+      ]
+    },
+    {
+      "videos": [   
+      ]
+    }
+  ]
+}
